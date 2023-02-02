@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CAEA,yBAKE,QAAS,CACT,SAAU,CACV,QAAS,CACT,cAAe,CACf,uBACF","file":"reset.7fd9575b.css","sourceRoot":"..\\src","sourcesContent":["* {\n  box-sizing: border-box;\n}\n\nhtml,\nbody,\ndiv,\nform,\nlabel {\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-size: 100%;\n  vertical-align: baseline;\n}\n"]}
